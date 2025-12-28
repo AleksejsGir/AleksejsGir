@@ -35,13 +35,13 @@
 
 **Backend Developer | Microservices Architecture | AI Integration**
 
-Python/Django Developer with **3 years professional programming experience**, combining freelance development (2022-2024), European certification (94/100), and production internship at **TROOD, INC**.
+Python/Django Developer with **3 years professional programming experience**, combining freelance development (2022-2024), European certification (94/100), and Full-Stack Developer at **TROOD, INC**.
 
 ### 🎯 Career Journey
 ```
 2022-2024  │ Self-taught freelancer building Django web applications and Telegram bots
 2024-2025  │ European-certified intensive training (Tel-Ran.de, 94/100) - 428 hours
-2025-Now   │ Production internship at TROOD, INC. (Python/Go/React/PostgreSQL)
+2025-Now   │ Full-Stack Developer at TROOD, INC. (Python/Go/React/PostgreSQL)
 ```
 
 ### 💼 Professional Experience
