@@ -33,7 +33,7 @@
 
 ## 🚀 About Me
 
-**Backend Developer | Microservices Architecture | AI Integration**
+**Full-Stack Developer | Microservices Architecture | AI Integration**
 
 Python/Django Developer with **3 years professional programming experience**, combining freelance development (2022-2024), European certification (94/100), and Full-Stack Developer at **TROOD, INC**.
 
