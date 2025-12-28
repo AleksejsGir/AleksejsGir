@@ -100,7 +100,7 @@ Passionate about writing **clean, maintainable code** and building **scalable so
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aleksejs-giruckis-0569a7353)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aleksej.it.gir@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://chattyorange.eu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://aglwebstudio.com)
 
 **💼 Status**: Open to Python/Django & Full-Stack opportunities | Immediate availability
 
