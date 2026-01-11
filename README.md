@@ -143,7 +143,7 @@ Building **Rizq Launcher** - enterprise AI platform:
 | 🏗️ **Architecture** | Clean Architecture, SOLID, Microservices, gRPC |
 | 👔 **Leadership** | Led 6-person team through complete SDLC |
 | 🎯 **Quality Focus** | TDD, pytest, 75%+ coverage, CI/CD pipelines |
-| 🎓 **Certified** | European program - 428 hours, score 94/100 |
+| � **Certified** | European program - 428 hours, score 94/100 |
 
 ---
 
